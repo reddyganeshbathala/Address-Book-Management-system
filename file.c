@@ -10,7 +10,6 @@ void saveContactsToFile(AddressBook *addressBook)
    perror("Error");
    return;
  } 
- fprintf(fp,"#%d\n",addressBook->contactCount);
  int i;
  for(i=0;i<addressBook->contactCount;i++)
  {
