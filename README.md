@@ -65,4 +65,4 @@ Thank you for your support! 😊
 **Reddy Ganesh B**  
 B.E. Electronics and Communication Engineering  
 Passionate about Embedded Systems, C Programming, and building practical projects.  
-🔗 [LinkedIn](www.linkedin.com/in/reddy-ganesh-bathala-790954325) | [GitHub](https://github.com/reddyganeshbathala)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/reddy-ganesh-bathala-790954325)| [GitHub](https://github.com/reddyganeshbathala)
