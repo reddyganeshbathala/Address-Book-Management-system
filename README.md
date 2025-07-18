@@ -26,11 +26,11 @@ A C-based console application for managing contacts with features like create, s
 ---
 
 ## 📁 File Structure
-├── main.c             # Entry point and menu handler
-├── contact.c/.h       # Contact logic (add/edit/search/delete)
-├── file.c/.h          # File operations (read/write CSV)
-├── contact.csv        # Stores contact data
-└── Project_Report.pdf  # Full project report
+- main.c             # Entry point and menu handler
+-  contact.c/.h       # Contact logic (add/edit/search/delete)
+- file.c/.h          # File operations (read/write CSV)
+- contact.csv        # Stores contact data
+- Project_Report.pdf  # Full project report
 
 ---
 ## GCC Command Example:
