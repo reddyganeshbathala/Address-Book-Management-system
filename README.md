@@ -39,7 +39,7 @@ To run code -  ./a.out
 
 ---
 ## 📄 Full Project Report
-📥 [Download the Full Report](Project_Document.pdf)
+📥 [Download the Full Report](Project_report.pdf)
 
 ---
 ## 🔮 Future Enhancements
