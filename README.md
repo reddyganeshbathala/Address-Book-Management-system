@@ -39,7 +39,7 @@ A C-based console application for managing contacts with features like create, s
 
 ---
 ## 📄 Full Project Report
-📥 [Download the Full Report](Project_report.pdf)
+📥 [Download the Full Report](Project_Report.pdf)
 
 ---
 ## 🔮 Future Enhancements
